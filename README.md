@@ -6,7 +6,7 @@
 - 🔭 I am currently working as a **Senior Salesforce Developer | Administrator**
 
 ### 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Apex](https://img.shields.io/badge/Apex-1997B5&?logo=Apex&logoColor=white&style=flat) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Visual Force](https://img.shields.io/badge/VisualForce-0078d7.svg?style=flat&logo=Visual-Force&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Apex](https://img.shields.io/badge/Apex-1997B5&?logo=Apex&logoColor=white&style=flat) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Visual Force](https://img.shields.io/badge/VisualForce-0078d7.svg?style=flat&logo=Visual-Force&logoColor=white)
 
 
 ### 📊 GitHub Stats:
